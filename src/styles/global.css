@@ -7,21 +7,27 @@ html{
  scroll-behavior: smooth;
 }
 
-.content-nosso-time, .content-cursos, .content-faq, .content-contato{
-
+.content-Nosso-Time, .content-Cursos, .content-FAQ, .content-Contato{
+width: 100%;
+height: 100vh;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 40px;
+color: #fff;
 }
-.content-nosso-time{
-
-}
-
-.content-cursos{
-
-}
-
-.content-faq{
-
+.content-Nosso-Time{
+background-color: rgb(179, 81, 199);
 }
 
-.content-contato{
+.content-Cursos{
+background-color: rgb(165, 101, 190);
+}
 
+.content-FAQ{
+background-color: rgb(183, 105, 199);
+}
+
+.content-Contato{
+background-color: rgb(156, 85, 170);
 }
