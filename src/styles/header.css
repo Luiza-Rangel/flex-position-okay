@@ -9,7 +9,7 @@
   
     /* altura do header */
     height: 8vh; 
-    background-color: #9c4ec0;
+    background-color: #9561d1;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.101);
     
     /* Flex para alinhar os itens horizontalmente */
@@ -107,5 +107,5 @@
   .content-sec01{
     width: 100%;
     height: 100vh;
-    background-color: blueviolet
+    background-color: rgb(245, 42, 42)
   }
