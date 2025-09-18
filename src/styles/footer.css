@@ -62,4 +62,10 @@ gap: 60px;
 }
 
 /*Classe responsavel por aplicar o efeito em todos os icones das redes sociais */
+.effect:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 3px #5e01af);
+    cursor: pointer;
+    box-shadow: 0 0 3px #5e01af;
 
+}

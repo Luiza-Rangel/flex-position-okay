@@ -43,7 +43,7 @@ background-color: rgb(152, 66, 185);
   right: 96px;    
   filter: drop-shadow(0 0 4px #ffffff); 
   z-index: 1000;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, box-shadow 0.3s ease;
 }
 
 .whatsapp-button img {
